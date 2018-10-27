@@ -16,5 +16,8 @@
   <remote fetch="https://github.com/frankbau" name="frankbau"/>
   <project remote="frankbau" name="meta-rpi" path="sources/meta-rpi"/>
 
+  <remote fetch="https://github.com/gipi" name="rpi0-repo" revision="rpi-conf"/>
+  <project remote="rpi0-repo" name="rpi0-repo" path="sources/build/"/>
+
 </manifest>
 
