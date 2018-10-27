@@ -1,3 +1,4 @@
 tmp/
 sstate-cache/
 cache/
+tmp-glibc/
