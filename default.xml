@@ -14,7 +14,7 @@
   <project remote="qt5" name="meta-qt5" path="sources/meta-qt5"/>
 
   <remote fetch="https://github.com/gipi" name="rpi0-repo" revision="rpi-conf"/>
-  <project remote="rpi0-repo" name="rpi0-repo" path="sources/build/"/>
+  <project remote="rpi0-repo" name="rpi0-repo" path="build/"/>
 
 </manifest>
 
